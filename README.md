@@ -1,0 +1,2 @@
+# bertSentencesEmbedding
+使用bert嵌入获得用户昵称的embedding
